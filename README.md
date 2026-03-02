@@ -97,29 +97,3 @@ Actualmente trabajo con **Angular**, **Vue**, **Laravel**, **NestJS** y exploro 
 | Sistema de Asistencias | Angular + Laravel | Registro, reportes y consultas en tiempo real |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Valerio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValerioDev6&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioDev6&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Formación
-
-- 🎓 **Técnico Desarrollador de Software e IA** — SENATI *(2021 – 2024)*
-- 📜 **Python Essentials 1 & 2** — Cisco *(2024)*
-
----
-
-<div align="center">
-
-*"Código limpio, arquitecturas sólidas, soluciones reales."*
-
-![Visitors](https://komarev.com/ghpvc/?username=ValerioDev6&color=blue&style=flat-square)
-
-</div>
