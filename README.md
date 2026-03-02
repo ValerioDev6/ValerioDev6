@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Howlsnow.jpg/320px-Howlsnow.jpg" width="180" style="border-radius:50%"/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerio-qa/)
-
 </div>
 
 ---
 
 ## 👨‍💻 Sobre Mí
 
-Técnico en Desarrollo de Software especializado en aplicaciones web, escritorio y bots inteligentes. Construyo soluciones full-stack con arquitecturas limpias.
+Soy Técnico en Desarrollo de Software con experiencia en aplicaciones web, aplicaciones de escritorio y bots inteligentes (Telegram, WhatsApp). Me especializo en construir soluciones completas — desde el frontend hasta el backend — con un enfoque en arquitecturas limpias y escalables.
 
 **Stack actual:** Angular · Vue · Laravel · NestJS · IA Aplicada
 
@@ -27,6 +23,8 @@ Técnico en Desarrollo de Software especializado en aplicaciones web, escritorio
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 **Base de Datos**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
