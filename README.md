@@ -1,5 +1,3 @@
-## Sobre Mí
-
 Soy Técnico en Desarrollo de Software con experiencia en aplicaciones web, aplicaciones de escritorio y bots inteligentes (Telegram, WhatsApp). Me especializo en construir soluciones completas — desde el frontend hasta el backend — con un enfoque en arquitecturas limpias y escalables.
 
 **Stack actual:** Angular · Vue · Laravel · NestJS · IA Aplicada
