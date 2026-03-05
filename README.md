@@ -1,10 +1,13 @@
-<div align="center">
+<table>
+<tr>
+<td width="340">
 
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80" width="600" alt="coding" />
+![coding](https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=340&q=80)
 
-&nbsp;
+</td>
+<td valign="top" width="460">
 
-**Técnico en Desarrollo de Software**
+### Técnico en Desarrollo de Software
 
 Aplicaciones web · Escritorio · Bots inteligentes (Telegram, WhatsApp)  
 Soluciones completas — frontend hasta backend — arquitecturas limpias y escalables.
@@ -20,4 +23,6 @@ Soluciones completas — frontend hasta backend — arquitecturas limpias y esca
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-</div>
+</td>
+</tr>
+</table>
